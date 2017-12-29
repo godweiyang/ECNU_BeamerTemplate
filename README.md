@@ -1,2 +1,2 @@
-# ECNU_BeamerTemplate
-ECNU_BeamerTemplate
+# 华东师范大学幻灯片模板 1.0
++ 使用 ```XeLaTeX``` 编译
